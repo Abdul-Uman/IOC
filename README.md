@@ -1,2 +1,2 @@
 # IOC
-IOC's
+IoC Indicators for usage with KQL
