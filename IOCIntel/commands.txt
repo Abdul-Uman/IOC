@@ -1,21 +1,26 @@
-powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'chrome.exe'  }
-powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'msedge.exe'  }
-powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'firefox.exe'  }
+094ebda2ba1580cb20661927878ada33ab142ffb
+4802edc8a5a14e7f60b2266439cc517c39f7402f
+5a62b764850d52e01eddf735a5768aae58408780
+c98adfbb67c476ec2a2b1087eef60e977ff79849
+m4_cruise@proton.me
+msiexec /qn /i ManualFinder-v2.0.196.msi
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'brave.exe'  }
+powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'chrome.exe'  }
+powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'firefox.exe'  }
+powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'msedge.exe'  }
+reg query HKCU\Software\CheckPoint\ZANG
+reg query HKCU\Software\KasperskyLabSetup
+reg query HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\EPISoftware EpiBrowser /v UninstallString
+reg query HKCU\Software\Zillya\Zillya Antivirus
+reg query HKLM\Software\Classes\G DATA ANTIVIRUS
+reg query HKLM\Software\Fortinet
 reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Run\Bitdefender /v UninstallString
 reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\Bitdefender /v UninstallString
 reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\{96A251BD-7532-4CF9-B87D-158FC685DBC4} /v UninstallString
-reg query HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\REC /v UninstallString
 reg query HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\G DATA ANTIVIRUS /v UninstallString
+reg query HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\REC /v UninstallString
 reg query HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{4073CD02-7996-48D7-AFDF-297676C27CA6} /v UninstallString
-reg query HKLM\Software\Classes\G DATA ANTIVIRUS
-reg query HKCU\Software\CheckPoint\ZANG
-reg query HKCU\Software\KasperskyLabSetup
-reg query HKLM\Software\Fortinet
-reg query HKCU\Software\Zillya\Zillya Antivirus
-reg query HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\EPISoftware EpiBrowser /v UninstallString
-taskkill /IM msedge.exe
-taskkill /IM chrome.exe
 taskkill /IM brave.exe
+taskkill /IM chrome.exe
 taskkill /IM firefox.exe
-msiexec /qn /i ManualFinder-v2.0.196.msi
+taskkill /IM msedge.exe
