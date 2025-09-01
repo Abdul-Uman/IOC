@@ -1,36 +1,35 @@
-name: Update IOCs from AlienVault OTX
+name: Update IOCs
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
-  workflow_dispatch:        # allow manual run
+    - cron: "0 */6 * * *"   # runs every 6 hours
+  workflow_dispatch:         # allows manual run
 
 jobs:
   update-iocs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repo
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
 
-      - name: Install dependencies
-        run: pip install requests
+    - name: Install dependencies
+      run: pip install requests
 
-      - name: Run IOC update script
-        run: python IOC/IOCIntel/update_iocs.py
-        env:
-          OTX_API_KEY: ${{ secrets.OTX_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Run update script
+      env:
+        OTX_API_KEY: ${{ secrets.OTX_API_KEY }}
+      run: python IOCIntel/update_iocs.py
 
-      - name: Commit & Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Auto-update IOCs from AlienVault"
-          git push
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add IOCIntel/*
+        git commit -m "Auto-update IOCs"
+        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
