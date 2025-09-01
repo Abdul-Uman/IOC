@@ -1,4 +1,5 @@
 import os
+import requests
 
 IOC_DIR = "IOCIntel"
 
@@ -14,26 +15,34 @@ files = {
     "signers": f"{IOC_DIR}/signers.txt"
 }
 
-# 1. Ensure IOC directory exists
-os.makedirs(IOC_DIR, exist_ok=True)
-
-# 2. Example data (replace this with your IOC collection logic later)
-dummy_data = {
-    "ip": ["192.168.1.10", "10.0.0.5"],
-    "c2": ["maliciousc2.example.com"],
-    "commands": ["powershell -nop -w hidden"],
-    "domains": ["bad-domain.com", "evil.com"],
-    "urls": ["http://malware.test/abc", "https://phish.example/login"],
-    "hashes": ["44d88612fea8a8f36de82e1278abb02f"],  # MD5/SHA1/SHA256 all in one
-    "hostnames": ["infected-host"],
-    "cves": ["CVE-2024-12345", "CVE-2025-67890"],
-    "signers": ["FakeSigner Inc"]
+# ✅ Replace with your raw GitHub links for IOC sources
+ioc_sources = {
+    "ip": "https://raw.githubusercontent.com/<your-repo>/main/ip_addresses.txt",
+    "c2": "https://raw.githubusercontent.com/<your-repo>/main/c2.txt",
+    "commands": "https://raw.githubusercontent.com/<your-repo>/main/commands.txt",
+    "domains": "https://raw.githubusercontent.com/<your-repo>/main/domains.txt",
+    "urls": "https://raw.githubusercontent.com/<your-repo>/main/urls.txt",
+    "hashes": "https://raw.githubusercontent.com/<your-repo>/main/hashes.txt",
+    "hostnames": "https://raw.githubusercontent.com/<your-repo>/main/hostnames.txt",
+    "cves": "https://raw.githubusercontent.com/<your-repo>/main/cves.txt",
+    "signers": "https://raw.githubusercontent.com/<your-repo>/main/signers.txt",
 }
 
-# 3. Write IOCs into respective files
-for key, path in files.items():
-    with open(path, "w") as f:
-        for item in dummy_data.get(key, []):
-            f.write(item + "\n")
+# Ensure directory exists
+os.makedirs(IOC_DIR, exist_ok=True)
 
-print("✅ IOC files updated successfully")
+# Fetch and update each IOC file
+for key, url in ioc_sources.items():
+    try:
+        resp = requests.get(url)
+        if resp.status_code == 200:
+            content = resp.text.strip()
+            with open(files[key], "w", encoding="utf-8") as f:
+                f.write(content + "\n")
+            print(f"✅ Updated {files[key]}")
+        else:
+            print(f"⚠️ Failed to fetch {url} (status {resp.status_code})")
+    except Exception as e:
+        print(f"❌ Error fetching {url}: {e}")
+
+print("🎯 IOC update process completed")
