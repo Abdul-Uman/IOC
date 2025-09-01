@@ -1,8 +1,10 @@
 094ebda2ba1580cb20661927878ada33ab142ffb
+1699ec3052832f0e35ac78f0be33a15f08e6b2f4
 4802edc8a5a14e7f60b2266439cc517c39f7402f
 5a62b764850d52e01eddf735a5768aae58408780
 c98adfbb67c476ec2a2b1087eef60e977ff79849
 m4_cruise@proton.me
+megamarket.ua@p9tm15n7-80.euw.devtunnels.ms
 msiexec /qn /i ManualFinder-v2.0.196.msi
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'brave.exe'  }
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'chrome.exe'  }
@@ -24,3 +26,4 @@ taskkill /IM brave.exe
 taskkill /IM chrome.exe
 taskkill /IM firefox.exe
 taskkill /IM msedge.exe
+wise.com@p9tm15n7-80.euw.devtunnels.ms

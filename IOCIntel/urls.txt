@@ -1,5 +1,11 @@
+http://103.231.75.101:8888
 http://139.84.156.79/dst-x86.bin
 http://146.70.41.178:4444/logs
+http://45.159.248.110
+http://45.159.248.110/brow/xyz2
+http://45.159.248.110/client/xyz2
+http://45.159.248.110/payload/xyz2
+http://45.89.53.54
 http://anydeesk.ink/download/anydesk.html
 http://brokaflex.com/tw/w.php
 http://docsresearchgroup.com/
@@ -7,6 +13,7 @@ http://ktc2005.com/bu.txt
 http://ktc2005.com/bu.txt.xn--ivg
 http://manitouturkiye.com/cz/z.php
 http://modgovindia.space
+http://nandayo.ru/srgssdfsf
 http://power-builders.net/vn/v.php
 http://quickhelpsolve.com/asdf.6786708906
 http://saurkanot.com/policy.html
@@ -19,12 +26,17 @@ http://verification.anydeesk.ink/reCAPTCHA-v2.php
 https://9b031a44-7158758d.yrqwvevbjcfv.es/SZgm3kXA/
 https://andrefelipedonascime1753562407700.0461178.meusitehostgator.com.br/sPVbqMbKYr_06/03.txt.”
 https://blackpointcyber.com/wp-content/uploads/2024/11/DragonForce.pdf
+https://block-digital.online/drivers/cam_driver
 https://brokaflex.com/tw/w.xn--php-9o0a
 https://chikeukohandco.com/csi/index.html?redirect_mongo_id=
 https://chikeukohandco.com/saas/Index.html
 https://clients.contology.com/captcha/
 https://curie77.fr/?download=1&kccpid=2339&kcccount=https://kkvl.legends.com.de/be2N0
 https://cyberresilience.com/threatonomics/scattered-spider-uk-retail-attacks/
+https://driverservices.store/visiodrive/arm64-fixer
+https://driverservices.store/visiodrive/arm64-fixernew
+https://driverservices.store/visiodrive/nvidiaRelease.zip
+https://driverservices.store/visiodrive/nvidiaReleasenew.zip
 https://koonenmagaziner.click/counter/&lt;IP_address
 https://maltashopping24.com/t
 https://marketplace24ei.ru//
