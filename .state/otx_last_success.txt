@@ -1,13 +1,1 @@
-IOC/c2.txt
-IOC/domains.txt
-IOC/urls.txt
-IOC/hashes_md5.txt
-IOC/hashes_sha1.txt
-IOC/hashes_sha256.txt
-IOC/hostnames.txt
-IOC/cves.txt
-IOC/yara.txt
-IOC/snort.txt
-IOC/suricata.txt
-IOC/signers.txt
-.state/otx_last_success.txt
+
