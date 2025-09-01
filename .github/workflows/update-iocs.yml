@@ -28,8 +28,8 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add IOCIntel/*
-        git commit -m "Auto-update IOCs"
-        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+       git config --global user.name "github-actions[bot]"
+       git config --global user.email "github-actions[bot]@users.noreply.github.com"
+       git add IOCIntel/*
+       git commit -m "Auto-update IOCs" || echo "No changes to commit"
+       git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
