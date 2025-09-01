@@ -15,7 +15,7 @@ files = {
     "signers": f"{IOC_DIR}/signers.txt"
 }
 
-# ✅ Replace with your raw GitHub links for IOC sources
+# ✅ Replace <your-repo> with your GitHub repo path
 ioc_sources = {
     "ip": "https://raw.githubusercontent.com/<your-repo>/main/ip_addresses.txt",
     "c2": "https://raw.githubusercontent.com/<your-repo>/main/c2.txt",
@@ -31,18 +31,24 @@ ioc_sources = {
 # Ensure directory exists
 os.makedirs(IOC_DIR, exist_ok=True)
 
+def clean_and_dedupe(content: str):
+    """Clean file content, remove duplicates, and sort."""
+    lines = [line.strip() for line in content.splitlines() if line.strip()]
+    unique_sorted = sorted(set(lines))
+    return "\n".join(unique_sorted)
+
 # Fetch and update each IOC file
 for key, url in ioc_sources.items():
     try:
         resp = requests.get(url)
         if resp.status_code == 200:
-            content = resp.text.strip()
+            content = clean_and_dedupe(resp.text)
             with open(files[key], "w", encoding="utf-8") as f:
                 f.write(content + "\n")
-            print(f"✅ Updated {files[key]}")
+            print(f"✅ Updated {files[key]} ({len(content.splitlines())} unique entries)")
         else:
             print(f"⚠️ Failed to fetch {url} (status {resp.status_code})")
     except Exception as e:
         print(f"❌ Error fetching {url}: {e}")
 
-print("🎯 IOC update process completed")
+print("🎯 IOC update process completed with deduplication")
