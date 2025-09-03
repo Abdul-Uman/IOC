@@ -1,11 +1,13 @@
 http://103.231.75.101:8888
 http://139.84.156.79/dst-x86.bin
 http://146.70.41.178:4444/logs
+http://185.218.87.28
 http://45.159.248.110
 http://45.159.248.110/brow/xyz2
 http://45.159.248.110/client/xyz2
 http://45.159.248.110/payload/xyz2
 http://45.89.53.54
+http://77.90.153.136/ss/armv4l
 http://anydeesk.ink/download/anydesk.html
 http://boss-servers.gov.in.indianbosssystems.ddns.net:443/agent.ashx
 http://brokaflex.com/tw/w.php
