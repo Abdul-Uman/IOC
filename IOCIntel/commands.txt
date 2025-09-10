@@ -6,6 +6,7 @@
 5a62b764850d52e01eddf735a5768aae58408780
 6623dd6ce02703375ee0a0c9ec123881b430b488
 c98adfbb67c476ec2a2b1087eef60e977ff79849
+f810406a77c040eb88f21187d3490546f0f9dcbe
 m4_cruise@proton.me
 megamarket.ua@p9tm15n7-80.euw.devtunnels.ms
 msiexec /qn /i ManualFinder-v2.0.196.msi
