@@ -9,6 +9,9 @@ http://45.159.248.110/client/xyz2
 http://45.159.248.110/payload/xyz2
 http://45.89.53.54
 http://77.90.153.136/ss/armv4l
+http://89.169.13.215/api/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
+http://89.169.13.215/tasks/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
+http://95.164.53.26/api/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
 http://anydeesk.ink/download/anydesk.html
 http://boss-servers.gov.in.indianbosssystems.ddns.net:443/agent.ashx
 http://brokaflex.com/tw/w.php
