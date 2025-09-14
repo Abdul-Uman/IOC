@@ -1439,6 +1439,7 @@ api.fivebit.io
 api.fix-drivers.online
 api.fixdiskpro.online
 api.general-meet.site
+api.glazeceramics.com
 api.growzy.tech
 api.ibario.com
 api.imoda.site
@@ -3841,6 +3842,7 @@ columnez.shop
 colunnlbusrr.com
 com-ar.top
 combatentesnafe.com.br
+comdoc1.docu-duplicator.com
 comenta.site
 cometnet.biz
 comfortableuse.site
@@ -4794,10 +4796,12 @@ doc-send.com
 doc-send.online
 doc-share.cloud
 doc.cooporatestock.com
+doc.docu-duplicator.com
 doc.documentshare.info
 doc.filesaves.cloud
 doc.global-link.run.place
 doc.gsheetshare.org
+doc2.docu-duplicator.com
 docaccesshub.top
 doccdcsstage.ctdoc.org
 docentfx.com
