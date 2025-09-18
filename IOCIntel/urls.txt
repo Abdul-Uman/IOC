@@ -1,8 +1,14 @@
 http://103.231.75.101:8888
 http://139.84.156.79/dst-x86.bin
 http://146.70.41.178:4444/logs
+http://15.235.172.219/vmeo/getlink?id=dcaathur
+http://15.235.172.219/vmeo/link/dcaathur.txt
+http://160.25.232.62/bee/BEE02_H.txt
+http://160.25.232.62/vmeo/getlink?id=bee02h
 http://180.178.189.7/mycaptcha.html
 http://185.218.87.28
+http://196.251.84.144/suc/And_st.txt
+http://196.251.84.144/suc/zk2.txt
 http://213.209.150.18/SoNZ984ijTf8DPr.exe
 http://45.159.248.110
 http://45.159.248.110/brow/xyz2
