@@ -9,6 +9,8 @@ http://164.68.120.30:550/99/Skype.ps1
 http://176.65.139.119:555/aA/Skype.ps1
 http://180.178.189.7/mycaptcha.html
 http://185.218.87.28
+http://192.121.113.60/dev/run.php
+http://194.26.213.176/class/mcrypt.php
 http://196.251.84.144/suc/And_st.txt
 http://196.251.84.144/suc/zk2.txt
 http://213.209.150.18/SoNZ984ijTf8DPr.exe
@@ -16,8 +18,12 @@ http://45.159.248.110
 http://45.159.248.110/brow/xyz2
 http://45.159.248.110/client/xyz2
 http://45.159.248.110/payload/xyz2
+http://45.86.163.10/class/mcrypt.php
 http://45.89.53.54
+http://46.30.188.243/class/mcrypt.php
+http://77.75.230.135/class/mcrypt.php
 http://77.90.153.136/ss/armv4l
+http://79.132.128.81/dev/run.php
 http://89.169.13.215/api/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
 http://89.169.13.215/tasks/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
 http://94.232.249.208/6a6fe9d70500fe64/main.php
@@ -51,6 +57,7 @@ http://e-bonds.ru/tmp/
 http://es-koerier.nl/tmp/
 http://female-disorder-beta-metropolitan.trycloudflare.com/index.php
 http://galusa.ac.mz/pdf
+http://gdbkvfe6g3whrzkdlbytksygk45zwgmnzh5i2xmqyo3mrpipysjagqyd.onion/
 http://github.githubassets.net/okaqbfk867hmx2tvqxhc8zyq9fy694gf/hta
 http://gobr.868id.com/tz.php
 http://kololjrdtgted.click/zip.php.
@@ -80,6 +87,8 @@ http://updatemind52.com/Love_Chat.apk
 http://updatemind52.com/Love_Chat.apk.
 http://updatemind52.com/asdf.6786708906
 http://verification.anydeesk.ink/reCAPTCHA-v2.php
+http://vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion/
+http://vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion/\n
 http://webrat.in/login/
 http://windows-msg-as.live/qwV1jxQ
 http://www.jiwooeng.co.kr/zb41pl7/bbs/icon/private_name/private.php?name=
@@ -129,9 +138,15 @@ https://eset.ydns.eu/scrss.ps1
 https://fhauifhyileydhfl.com/
 https://galusa.ac.mz/pdf
 https://gohazeldale.com
+https://hs1.iphide.net:751
+https://hs2.iphide.net:751
+https://hs3.iphide.net:751
+https://hs4.iphide.net:751
 https://indoorvisions.org/patriarchal/furthering/creating/flared/censured
 https://indoorvisions.org/patriarchal/furthering/creating/flared/censured?hostname=[hostname]&username=[username]
 https://investors.pbfenergy.com/
+https://it1.comodo-vpn.com:1950
+https://it1.comodo-vpn.com:1953
 https://kololjrdtgted.click/zip.php
 https://koonenmagaziner.click/counter/&lt;IP_address
 https://maltashopping24.com/t
@@ -151,6 +166,8 @@ https://phillips66-carros.site/
 https://phillips66-carros.site/.
 https://phillips66lubricants.ru/
 https://quickhelpsolve.com/public/commands.php
+https://r1.earthvpn.org:3413
+https://r2.earthvpn.org:3413
 https://reward-aave.us/web3/
 https://rto.dc7.live
 https://salat.cn
