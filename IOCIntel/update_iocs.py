@@ -127,12 +127,13 @@ def main():
         data = r.json()
         results = data.get("results", [])
         if not results:
-            print("[+] No new IOCs found in this run.")
-            # Export commit message for workflow
-            env_file = os.getenv("GITHUB_ENV")
-            if env_file:
-                with open(env_file, "a") as f:
-                    f.write("UPDATE_MESSAGE=chore: no new IOCs (OTX sync)\n")
+            now_iso = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+            write_last_ts(now_iso)
+            # Always update a marker file so git has something to commit
+            marker_file = os.path.join(STATE_DIR, "last_run.txt")
+            with open(marker_file, "w", encoding="utf-8") as f:
+                f.write(f"No new IOCs found at {now_iso}\n")
+            print("[+] No new IOCs found. Marker file updated for commit.")
             sys.exit(0)
 
         print(f"[+] Processing page {page} ({len(results)} pulses)")
@@ -192,15 +193,6 @@ def main():
     now_iso = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
     write_last_ts(now_iso)
     print("[+] Finished. New last run timestamp:", now_iso, " -- total added:", total_added)
-
-    # Export commit message for workflow
-    env_file = os.getenv("GITHUB_ENV")
-    if env_file:
-        with open(env_file, "a") as f:
-            if total_added > 0:
-                f.write("UPDATE_MESSAGE=chore: update IOCs from AlienVault OTX\n")
-            else:
-                f.write("UPDATE_MESSAGE=chore: no new IOCs (OTX sync)\n")
 
 if __name__ == "__main__":
     main()
