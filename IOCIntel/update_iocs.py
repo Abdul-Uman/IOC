@@ -13,6 +13,8 @@ if not OTX_API_KEY:
 IOC_DIR = "IOCIntel"
 STATE_DIR = ".state"
 STATE_FILE = os.path.join(STATE_DIR, "otx_last_success.txt")
+MARKER_FILE = os.path.join(STATE_DIR, "last_run.txt")
+
 OTX_BASE = "https://otx.alienvault.com/api/v1"
 PULSES_SUBSCRIBED = OTX_BASE + "/pulses/subscribed"
 
@@ -82,6 +84,10 @@ def write_last_ts(ts):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         f.write(ts + "\n")
 
+def write_marker(msg):
+    with open(MARKER_FILE, "w", encoding="utf-8") as f:
+        f.write(msg + "\n")
+
 # ---------- Main ----------
 def main():
     ensure_paths()
@@ -129,11 +135,9 @@ def main():
         if not results:
             now_iso = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
             write_last_ts(now_iso)
-            # Always update a marker file so git has something to commit
-            marker_file = os.path.join(STATE_DIR, "last_run.txt")
-            with open(marker_file, "w", encoding="utf-8") as f:
-                f.write(f"No new IOCs found at {now_iso}\n")
-            print("[+] No new IOCs found. Marker file updated for commit.")
+            msg = f"No new IOCs found at {now_iso}"
+            write_marker(msg)
+            print("[+] " + msg)
             sys.exit(0)
 
         print(f"[+] Processing page {page} ({len(results)} pulses)")
@@ -192,7 +196,9 @@ def main():
 
     now_iso = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
     write_last_ts(now_iso)
-    print("[+] Finished. New last run timestamp:", now_iso, " -- total added:", total_added)
+    msg = f"Run finished at {now_iso} — total new IOCs added: {total_added}"
+    write_marker(msg)
+    print("[+] " + msg)
 
 if __name__ == "__main__":
     main()
