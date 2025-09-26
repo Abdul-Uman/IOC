@@ -127,7 +127,13 @@ def main():
         data = r.json()
         results = data.get("results", [])
         if not results:
-            print("[+] No new IOCs found in this run. Exiting gracefully.")
+            now_iso = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+            write_last_ts(now_iso)
+            # Always update a marker file so git has something to commit
+            marker_file = os.path.join(STATE_DIR, "last_run.txt")
+            with open(marker_file, "w", encoding="utf-8") as f:
+                f.write(f"No new IOCs found at {now_iso}\n")
+            print("[+] No new IOCs found. Marker file updated for commit.")
             sys.exit(0)
 
         print(f"[+] Processing page {page} ({len(results)} pulses)")
