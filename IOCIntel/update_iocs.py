@@ -127,8 +127,8 @@ def main():
         data = r.json()
         results = data.get("results", [])
         if not results:
-            print("[+] No more pulses on page", page)
-            break
+            print("[+] No new IOCs found in this run. Exiting gracefully.")
+            sys.exit(0)
 
         print(f"[+] Processing page {page} ({len(results)} pulses)")
         for pulse in results:
