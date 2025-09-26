@@ -113,7 +113,7 @@ def main():
             r = requests.get(PULSES_SUBSCRIBED, headers=headers, params=params, timeout=30)
         except Exception as e:
             print("ERROR fetching OTX:", e, file=sys.stderr)
-            sys.exit(3)
+            sys.exit(1)
 
         if r.status_code == 429:
             print("[!] Rate limited by OTX, backing off", file=sys.stderr)
