@@ -1,5 +1,6 @@
 094ebda2ba1580cb20661927878ada33ab142ffb
 1699ec3052832f0e35ac78f0be33a15f08e6b2f4
+199046b162cc4575597a10d9f9046515f9878bee
 28a7d55fb610df2f7720dcd6b063eada89ca1030
 3c3e7e67d31f3ec7f9aa5c542482fd855c3b1d36
 47c55a0485155477c64fe47f4dd971864d4f7a3d
@@ -9,16 +10,19 @@
 64:30:42:df:50:ce:f0:80:e4:48:51:e7:d5:d6:f6:54:f7:72:eb:c5
 6623dd6ce02703375ee0a0c9ec123881b430b488
 78d47f5c63882c341b29ea2f83beafdcdef2adb0
+7c87127c1abcbda6bf3a9872a0ca49406d564dc2
 9682ea925ee919ef51d65409465f2eb53ac60c28
 c98adfbb67c476ec2a2b1087eef60e977ff79849
 f810406a77c040eb88f21187d3490546f0f9dcbe
 m4_cruise@proton.me
 megamarket.ua@p9tm15n7-80.euw.devtunnels.ms
+mobile.mailer1@proton.me
 msiexec /qn /i ManualFinder-v2.0.196.msi
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'brave.exe'  }
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'chrome.exe'  }
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'firefox.exe'  }
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'msedge.exe'  }
+procure@bmuxitq.shop
 reg query HKCU\Software\CheckPoint\ZANG
 reg query HKCU\Software\KasperskyLabSetup
 reg query HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\EPISoftware EpiBrowser /v UninstallString
