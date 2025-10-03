@@ -113,7 +113,7 @@ def main():
             r = requests.get(PULSES_SUBSCRIBED, headers=headers, params=params, timeout=30)
         except Exception as e:
             print("ERROR fetching OTX:", e, file=sys.stderr)
-            sys.exit(1)
+            sys.exit(3)
 
         if r.status_code == 429:
             print("[!] Rate limited by OTX, backing off", file=sys.stderr)
@@ -127,14 +127,8 @@ def main():
         data = r.json()
         results = data.get("results", [])
         if not results:
-            now_iso = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
-            write_last_ts(now_iso)
-            # Always update a marker file so git has something to commit
-            marker_file = os.path.join(STATE_DIR, "last_run.txt")
-            with open(marker_file, "w", encoding="utf-8") as f:
-                f.write(f"No new IOCs found at {now_iso}\n")
-            print("[+] No new IOCs found. Marker file updated for commit.")
-            sys.exit(0)
+            print("[+] No more pulses on page", page)
+            break
 
         print(f"[+] Processing page {page} ({len(results)} pulses)")
         for pulse in results:
