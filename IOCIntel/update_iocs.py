@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-# IOCIntel/update_iocs.py
-# Fetch OTX subscribed pulses and write indicators into IOCIntel/*.txt (one-per-line, deduped).
 
-import os, sys, time, requests, datetime
+import os
+import sys
+import time
+import requests
+import datetime
 
 # ---------- CONFIG ----------
 OTX_API_KEY = os.getenv("OTX_API_KEY")
@@ -16,7 +18,7 @@ STATE_FILE = os.path.join(STATE_DIR, "otx_last_success.txt")
 OTX_BASE = "https://otx.alienvault.com/api/v1"
 PULSES_SUBSCRIBED = OTX_BASE + "/pulses/subscribed"
 
-# Map OTX indicator types to files in your repo (no yara/snort/suricata)
+# Map OTX indicator types to files in your repo
 TYPE_TO_FILE = {
     "IPv4": "ip_addresses.txt",
     "IPv6": "ip_addresses.txt",
@@ -28,8 +30,11 @@ TYPE_TO_FILE = {
     "FileHash-SHA1": "hashes.txt",
     "FileHash-SHA256": "hashes.txt",
     "CVE": "cves.txt",
+    "YARA": "commands.txt",
+    "Snort": "commands.txt",
+    "Suricata": "commands.txt",
     "Certificate_Serial": "signers.txt",
-    # fallback:
+    # fallback type:
     "DEFAULT": "commands.txt"
 }
 
@@ -74,7 +79,6 @@ def get_last_ts(default_days=7):
                 return s
         except:
             pass
-    # default to previous N days
     ts = (datetime.datetime.utcnow() - datetime.timedelta(days=default_days)).replace(microsecond=0).isoformat() + "Z"
     return ts
 
@@ -89,7 +93,7 @@ def main():
     last_ts = get_last_ts()
     print("[+] Last run timestamp:", last_ts)
 
-    # prepare file path map
+    # prepare file path map (absolute within IOC_DIR)
     file_map = {}
     for t, fname in TYPE_TO_FILE.items():
         file_map[t] = os.path.join(IOC_DIR, fname)
@@ -107,19 +111,21 @@ def main():
     page = 1
     backoff = 1
     total_indicators = 0
+
     while True:
         params = {"page": page, "limit": 50, "modified_since": last_ts}
         try:
             r = requests.get(PULSES_SUBSCRIBED, headers=headers, params=params, timeout=30)
         except Exception as e:
             print("ERROR fetching OTX:", e, file=sys.stderr)
-            sys.exit(1)
+            sys.exit(3)
 
         if r.status_code == 429:
             print("[!] Rate limited by OTX, backing off", file=sys.stderr)
             time.sleep(backoff)
             backoff = min(backoff * 2, 300)
             continue
+
         if r.status_code != 200:
             print("ERROR response", r.status_code, r.text[:500], file=sys.stderr)
             sys.exit(4)
@@ -127,25 +133,17 @@ def main():
         data = r.json()
         results = data.get("results", [])
         if not results:
-            now_iso = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
-            write_last_ts(now_iso)
-            # Always update a marker file so git has something to commit
-            marker_file = os.path.join(STATE_DIR, "last_run.txt")
-            with open(marker_file, "w", encoding="utf-8") as f:
-                f.write(f"No new IOCs found at {now_iso}\n")
-            print("[+] No new IOCs found. Marker file updated for commit.")
-            sys.exit(0)
+            print("[+] No more pulses on page", page)
+            break
 
         print(f"[+] Processing page {page} ({len(results)} pulses)")
         for pulse in results:
             for ind in pulse.get("indicators", []):
                 total_indicators += 1
                 itype_raw = (ind.get("type") or "").strip()
-                ival_raw  = ind.get("indicator") or ""
-                # normalize type keys
-                key = itype_raw
-                if not key:
-                    key = "DEFAULT"
+                ival_raw = ind.get("indicator") or ""
+
+                key = itype_raw if itype_raw else "DEFAULT"
                 lk = key.lower()
                 if lk == "ipv4":
                     key = "IPv4"
@@ -153,7 +151,7 @@ def main():
                     key = "IPv6"
                 elif lk in ("domain", "hostname"):
                     key = "domain"
-                elif lk in ("url","uri","uri-path"):
+                elif lk in ("url", "uri", "uri-path"):
                     key = "URL"
                 elif "filehash" in lk or "sha" in lk or "md5" in lk:
                     if "sha256" in lk:
@@ -164,10 +162,12 @@ def main():
                         key = "FileHash-MD5"
                     else:
                         key = "FileHash-SHA256"
+
                 target_file = file_map.get(key, file_map["DEFAULT"])
                 normalized = normalize(key, ival_raw)
                 if normalized:
                     new_by_file[target_file].add(normalized)
+
         page += 1
         if page > 2000:
             print("Too many pages, breaking", file=sys.stderr)
