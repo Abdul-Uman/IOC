@@ -12,8 +12,16 @@
 78d47f5c63882c341b29ea2f83beafdcdef2adb0
 7c87127c1abcbda6bf3a9872a0ca49406d564dc2
 9682ea925ee919ef51d65409465f2eb53ac60c28
+b5068f523f56b33b5665f3ae177c985502dc237c
 c98adfbb67c476ec2a2b1087eef60e977ff79849
 f810406a77c040eb88f21187d3490546f0f9dcbe
+feleko2722@replyloop.com
+host_sdji21cxvmj12@dropjar.com
+lux_47_jkscnxkjasd@fviainboxes.com
+lux_49_kcsdfer321@fviainboxes.com
+lux_bl_20_ilskdfgnoi_reg@fviainboxes.com
+lux_bl_21_sdfgsun_reg@fviainboxes.com
+lux_bl_22_fdjhgza_reg@fviainboxes.com
 m4_cruise@proton.me
 megamarket.ua@p9tm15n7-80.euw.devtunnels.ms
 mobile.mailer1@proton.me
@@ -22,6 +30,8 @@ powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'brave.e
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'chrome.exe'  }
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'firefox.exe'  }
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'msedge.exe'  }
+pq-black234333123@clowmail.com
+pq_bl_6_safs_sssw@fviainboxes.com
 procure@bmuxitq.shop
 reg query HKCU\Software\CheckPoint\ZANG
 reg query HKCU\Software\KasperskyLabSetup
@@ -40,3 +50,4 @@ taskkill /IM chrome.exe
 taskkill /IM firefox.exe
 taskkill /IM msedge.exe
 wise.com@p9tm15n7-80.euw.devtunnels.ms
+zapuwo3736@robot-mail.com
