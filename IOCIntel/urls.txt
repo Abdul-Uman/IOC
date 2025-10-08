@@ -96,6 +96,9 @@ http://64.226.112.52:8080/vbbdG8dpAw/s401
 http://77.75.230.135/class/mcrypt.php
 http://77.90.153.136/ss/armv4l
 http://79.132.128.81/dev/run.php
+http://80.85.154.48:443
+http://80.85.157.117:443
+http://82.118.16.173:443
 http://88.119.170.124/ezedcjrfvjriftmldedu
 http://88.119.170.124/lcekcnkxkbllmwlpoklgof
 http://89.169.13.215/api/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
@@ -115,6 +118,7 @@ http://alpinreisan1.com/UXO.exe
 http://anydeesk.ink/download/anydesk.html
 http://apdk7hpbbquomgoxbhutegxco6btrz2ara3x2weqnx65tt45ba3sclyd.onion
 http://api.glazeceramics.com:443
+http://api.twmoc.info/ws
 http://applemacios.com/vv/install.sh
 http://applemacios.com/vv/update
 http://ardt.info/tmp/
@@ -183,6 +187,8 @@ http://nandayo.ru/srgssdfsf
 http://ntc-06gd0upz.b4a.run/login
 http://ntc-06gd0upz.b4a.run/login/?jcvjeijnasdncadasdbfdfurhtnbfgbsydbx=1
 http://nyash.team/
+http://onedrive.azure-app.store/ws
+http://outlook.windows-app.store/ws
 http://ownmbaego.com/index.php
 http://pbfenergy.cc/
 http://pbfenergy.cc/.
@@ -245,6 +251,8 @@ https://abf26u.com
 https://abrargeospatial.ir/wp-includes/fonts/wp-icons/index.php
 https://acountinteruption.diprimiocostruzioni.it/ppl-it/mark.php
 https://aefpceup.pt/mail/
+https://aesthetic-donut-1af43s2.netlify.app/file/rar
+https://aesthetic-donut-1af43s2.netlify.app/index/file/A_Introduction_Docs_v00546823.rar
 https://af-itsolutions.pt/mail/
 https://afpsat.pt/cbb/
 https://airprint.gr/kund/
@@ -258,6 +266,8 @@ https://alpyateknoloji.com/wp-backup/
 https://andrefelipedonascime1753562407700.0461178.meusitehostgator.com.br/sPVbqMbKYr_06/03.txt.”
 https://aojdy5ex.dreamwp.com/wp-admin/css/colors/HOooo.php
 https://api.solarflevoland.nl/system_web/verification.php
+https://api.telegram.org/bot7522684505:AAEODeii83B_nlpLi0bUQTnOtVdjc8yHfjQ/sendDocument?chat_id=-1002503889864]
+https://app-site-association.cdn-apple.info:443/updates.rss
 https://assurancemaladie-renouvellement.info
 https://ateci.pt/Backup/
 https://auth-billing-smp.grupositel.com/simply/mark.php

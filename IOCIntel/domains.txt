@@ -6973,6 +6973,7 @@ api.stockdata.tech
 api.stockinfo.io
 api.tcremote.novatronica.com
 api.thaibit.io
+api.twmoc.info
 api.updatecall.live
 api.updatemycam.online
 api.updatewebcamnow.live
@@ -7062,6 +7063,7 @@ app-monespaces-securpass-assurances.art
 app-pink-joker-pl.online
 app-quantfury.online
 app-results.online
+app-site-association.cdn-apple.info
 app-software-development-training-11737.bond
 app-software-development-training-25630.bond
 app-software-development-training-28145.bond
@@ -8499,6 +8501,7 @@ azonixplay.xyz
 azphuket.com
 azs-service.ru
 aztrunkus.strangled.net
+azure-app.store
 azure-defender.cloud
 azure-drive.com
 azure-escapes.online
@@ -11953,6 +11956,7 @@ bzicloud.com
 bzlqtzkgh.cn
 bzss.pt
 c-v-s-epernay.online
+c.mid.al
 c00bdcc2e4ca5834.com
 c0inwat3h.site
 c0llcctiblcsupcrst0rc.com
@@ -12758,6 +12762,7 @@ cdhconsultingservices.online
 cdl-lb-1356093980.us-east-1.elb.amazonaws.com
 cdmaaustralia.online
 cdn-ali.qiyujiasu.com
+cdn-apple.info
 cdn-webstats.com
 cdn.clubinfo.io
 cdn.clublogos.io
@@ -17221,6 +17226,7 @@ doc.gsheetshare.org
 doc2.docu-duplicator.com
 docaccesshub.top
 doccdcsstage.ctdoc.org
+doccloude.info
 docdojshtensdmiaoe.site
 docelectronicos.site
 docentfx.com
@@ -26134,6 +26140,7 @@ jhrnmyxke.cn
 jhstudio.shop
 jhwmqsxpxhjlg.online
 jhzhyl.com
+ji57fr53anp7wb44tbbnp72qcgbhqywy4jmbncawdcrejj5amuvh3zqd.onion
 jiangshoppingmall.com
 jianqingtizhoong.site
 jiasen.cc
@@ -26765,6 +26772,7 @@ kbcwainwrightchallenge.org.uk
 kbealgldk.ws
 kbfizeskyyfkt.store
 kblqsvjd.cn
+kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion
 kbtalep64.xyz
 kbuzrhjsjksjc.store
 kcecqw.vg
@@ -34143,6 +34151,7 @@ onedigital.space
 onedocshare.com
 onedollarmillionaire.xyz
 onedrive-microsoftonline.com
+onedrive.azure-app.store
 onedrive.azure-defender.cloud
 onedriveaccess.com
 oneflashelectrical.online
@@ -34567,6 +34576,7 @@ outletprime.site
 outletrunning.site
 outlets-pinko.top
 outlook-office.micsrosoftonline.com
+outlook.windows-app.store
 outlookspotlight.com
 outloook-mailer365.com
 outofmyhead.online
@@ -34636,6 +34646,7 @@ ozmarinetech.online
 ozora.shop
 ozqquhhl.cn
 ozsafetystore.online
+ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion
 ozteknikpres.com
 oztransactions.online
 ozurrpaf.com
@@ -41139,6 +41150,7 @@ slepseetwork.online
 slfflu.ws
 slick-zaum.online
 slickmoney.online
+sliddeshare.online
 slim-pinksalt.store
 slimburndrop.site
 slimburndrops.online
@@ -46216,6 +46228,7 @@ twizt.net
 twkancelaria.eu
 twkuyakimura.com
 twlekqnwl.naveicoipg.online
+twmoc.info
 twobet885.xyz
 twocrd.store
 twofish.pro
@@ -49306,6 +49319,7 @@ wijayasolarenergy.com
 wikahmart.com
 wikfupwap.cc
 wiki-tesla.online
+wikileaksv2.com
 wikione.de
 wikiwaresmore.online
 wikiwhy.online
@@ -49432,6 +49446,7 @@ window-replacement-us76093.site
 windowcleanadelaide.online
 windowdeals.online
 windowprostitution.online
+windows-app.store
 windows-download.net
 windows-msg-as.live
 windows-replacement-deals-now.xyz
@@ -50397,6 +50412,7 @@ www.trunder.net
 www.tuamec.com
 www.tubematedownload.org.37-49-227-160.cpanel.site
 www.tuxy.lol
+www.twmoc.info
 www.u1-whotsapp.net
 www.ubec.edu.br
 www.ucb.br
