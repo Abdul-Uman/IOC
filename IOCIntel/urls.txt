@@ -1,3 +1,5 @@
+http://1.tcp.sa.ngrok.io:20262
+http://1.tcp.us-cal-1.ngrok.io:24521
 http://103.231.75.101:8888
 http://139.84.156.79/dst-x86.bin
 http://14.103.145.202/rondo.
@@ -78,6 +80,7 @@ http://46.8.232.106:30001/api/helper-first-register?buildVersion=0pTk.PWh2DyJ&md
 http://5.199.133.149/jznkmustntblvmdvgcwbvqb
 http://5.199.133.149/oeajgyxyxclqmfqayv
 http://5.255.113.9/translateapp/Dell_YGN/processtext.php.
+http://5.tcp.ngrok.io:22934
 http://64.226.112.52:8080
 http://64.226.112.52:8080/09KvYAUSHm/z593
 http://64.226.112.52:8080/0rX20C97S6/c402
@@ -94,6 +97,7 @@ http://64.226.112.52:8080/fAFUQgw7Py/c401
 http://64.226.112.52:8080/g1Gl1JWEUw/d401
 http://64.226.112.52:8080/rKS64mUmF7/d593
 http://64.226.112.52:8080/vbbdG8dpAw/s401
+http://7.tcp.ngrok.io:22426
 http://74.194.191.52/rondo.arc700
 http://74.194.191.52/rondo.armeb
 http://74.194.191.52/rondo.armebhf
@@ -148,6 +152,8 @@ http://88.119.170.124/ezedcjrfvjriftmldedu
 http://88.119.170.124/lcekcnkxkbllmwlpoklgof
 http://89.169.13.215/api/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
 http://89.169.13.215/tasks/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
+http://9.tcp.ngrok.io:23955
+http://9.tcp.ngrok.io:24080
 http://94.232.249.186/vodeo/vid_wg01ck01
 http://94.232.249.186/vodeo/wg01ck01
 http://94.232.249.208/6a6fe9d70500fe64/main.php
@@ -291,6 +297,7 @@ https://45.74.16.71/aAold/Skype.ps1
 https://4tressx.com/
 https://5b7crp.com
 https://6mpbp0t3.requestrepo.com/
+https://91.220.167.72
 https://9b031a44-7158758d.yrqwvevbjcfv.es/SZgm3kXA/
 https://9mdp5f.com
 https://a.leru.info/r
