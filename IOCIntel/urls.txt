@@ -2,6 +2,7 @@ http://1.tcp.sa.ngrok.io:20262
 http://1.tcp.us-cal-1.ngrok.io:24521
 http://103.231.75.101:8888
 http://135.181.123.177/api/service/makelog
+http://137.184.126.86:8080/vmwaretools
 http://139.84.156.79/dst-x86.bin
 http://14.103.145.202/rondo.
 http://144.172.112.50/api/service/makelog
@@ -9,6 +10,7 @@ http://144.172.96.35/api/service/makelog
 http://146.70.41.178:4444/logs
 http://15.235.172.219/vmeo/getlink?id=dcaathur
 http://15.235.172.219/vmeo/link/dcaathur.txt
+http://156.244.28.153/17ABE7F017ABE7F0
 http://160.25.232.62/bee/BEE02_H.txt
 http://160.25.232.62/vmeo/getlink?id=bee02h
 http://164.68.120.30:550/99/Skype.ps1
@@ -165,6 +167,12 @@ http://88.119.170.124/ezedcjrfvjriftmldedu
 http://88.119.170.124/lcekcnkxkbllmwlpoklgof
 http://89.169.13.215/api/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
 http://89.169.13.215/tasks/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
+http://89.31.121.101:443//Dialog.dat
+http://89.31.121.101:443/DisplayDialog.exe
+http://89.31.121.101:443/NortonLog.txt
+http://89.31.121.101:443/dbindex.dat
+http://89.31.121.101:443/imfsbDll.dll
+http://89.31.121.101:443/imfsbSvc.exe
 http://9.tcp.ngrok.io:23955
 http://9.tcp.ngrok.io:24080
 http://94.232.249.186/vodeo/vid_wg01ck01
