@@ -29,6 +29,8 @@ http://194.26.213.176/class/mcrypt.php
 http://196.251.84.144/suc/And_st.txt
 http://196.251.84.144/suc/zk2.txt
 http://213.209.150.18/SoNZ984ijTf8DPr.exe
+http://217.69.3.218/get_arhive_npm/
+http://217.69.3.218/get_zombi_payload/qQD%2FJoi3WCWSk8ggGHiTdg%3D%3D
 http://23.227.202.244:1224/brow/14/144
 http://23.227.202.244:1224/client/14/144
 http://23.227.202.244:1224/payload/14/144
