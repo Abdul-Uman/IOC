@@ -37,6 +37,8 @@ lux_bl_21_sdfgsun_reg@fviainboxes.com
 lux_bl_22_fdjhgza_reg@fviainboxes.com
 m4_cruise@proton.me
 megamarket.ua@p9tm15n7-80.euw.devtunnels.ms
+mimikatz@anti.pm
+mimikatzlogs@anti.pm
 mobile.mailer1@proton.me
 msiexec /qn /i ManualFinder-v2.0.196.msi
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'brave.exe'  }
