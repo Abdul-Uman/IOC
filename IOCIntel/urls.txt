@@ -29,6 +29,7 @@ http://192.121.113.60/dev/run.php
 http://194.26.213.176/class/mcrypt.php
 http://196.251.84.144/suc/And_st.txt
 http://196.251.84.144/suc/zk2.txt
+http://200.107.207.15/37:
 http://213.209.150.18/SoNZ984ijTf8DPr.exe
 http://217.69.3.218/get_arhive_npm/
 http://217.69.3.218/get_zombi_payload/qQD%2FJoi3WCWSk8ggGHiTdg%3D%3D
