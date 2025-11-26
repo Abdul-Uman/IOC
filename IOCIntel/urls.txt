@@ -329,6 +329,7 @@ http://doc-ye9wbezc.b4a.run/
 http://doc.docu-duplicator.com:53
 http://doc2.docu-duplicator.com:53
 http://docsresearchgroup.com/
+http://document-file.ru/files/documents/zakupki/MicrosoftWord.exe
 http://download.playthecheckers.com/d/Checkers.exe
 http://download.playthechess.com/d/MasterChess_oc.exe
 http://download.playtheminesweeper.com/d/Minesweeper.exe
