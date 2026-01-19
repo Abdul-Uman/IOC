@@ -35,6 +35,7 @@ http://192.121.113.60/dev/run.php
 http://192.153.57.9/private/svchost.exe
 http://193.34.213.150/nuts/bolts
 http://193.34.213.150/nuts/x86
+http://193.34.213.150/nuts/x86http://89.144.31.18/nuts/x86
 http://194.26.213.176/class/mcrypt.php
 http://194.69.203.32:81/hiddenbink/colonna.arc
 http://194.69.203.32:81/hiddenbink/colonna.i686
@@ -139,6 +140,8 @@ http://404.pyhycy.com/zz/u.php
 http://404.yyphw.com/index.php
 http://404.yyphw.com/zz/u.php
 http://41.231.37.153/rondo.aqu.sh
+http://41.231.37.153/rondo.aqu.sh||busybox
+http://41.231.37.153/rondo.aqu.sh||curl
 http://41.231.37.153/rondo.arc700
 http://41.231.37.153/rondo.armeb
 http://41.231.37.153/rondo.armebhf
@@ -157,6 +160,7 @@ http://41.231.37.153/rondo.powerpc-440fp
 http://41.231.37.153/rondo.sh4
 http://41.231.37.153/rondo.sparc
 http://41.231.37.153/rondo.x86_64
+http://41.231.37.153/rondo.xxx.sh
 http://45.129.199.214/vodeo/wg01ck01
 http://45.129.199.214/vodeo/wg01ck01.
 http://45.159.248.110
@@ -196,6 +200,8 @@ http://64.226.112.52:8080/fAFUQgw7Py/c401
 http://64.226.112.52:8080/g1Gl1JWEUw/d401
 http://64.226.112.52:8080/rKS64mUmF7/d593
 http://64.226.112.52:8080/vbbdG8dpAw/s401
+http://66.179.94.117/157/fsf090g90dfg090asdfxcv0sdf09sdf90200002f0sf0df09f0s9f0sdf0sf00ds.vbe
+http://66.179.94.117/157/w/w.doc
 http://67.217.57.240:666/files/netsh
 http://68.142.129.4:8277/download/c.sh
 http://6esygx.space
@@ -413,6 +419,7 @@ http://casadoconector.online/
 http://cclresources.com/
 http://cdn-cookie.com/recorder.js
 http://centrogauchodabahia123.com/altor/installer.msi
+http://cgky6bn6ux5wvlybtmm3z255igt52ljml2ngnc5qp3cnw5jlglamisad.onion/route.php
 http://chevroncorpstocks.com/
 http://chubagledivepreli.highbourg.my.id/win/index.php
 http://chyedweeyaxkavyccenwjvqrsgvyj0o1y.oast.fun/aaa
@@ -494,6 +501,7 @@ http://filomeruginfor.com/christian/house/cwk01
 http://filomeruginfor.com/deolefor/wg01ck01m
 http://first.longlastfor.online:8080/client
 http://firstfromsep.online/client
+http://fyvw2oiv.top/1.php?s=63e95be1-92e0-45c1-a928-65d63b17cd1c
 http://galusa.ac.mz/pdf
 http://gdbkvfe6g3whrzkdlbytksygk45zwgmnzh5i2xmqyo3mrpipysjagqyd.onion/
 http://gemme-cotti.ru/cotti.docx
@@ -583,6 +591,7 @@ http://marshmellowflowerscar.info
 http://mediumblog.online:4443
 http://meomeoli.mooo.com:8820/CLoadPXP/lix.exe?pass=PXPa9682775lckbitXPRopGIXPIL
 http://message.zoo-ciry.shop/
+http://mewo.oceanic-node.su:3443
 http://miportuarios.com/sisti/api.ps1
 http://mnjk-jk.bsdfg-zmp-q-n.shop/1.mp4
 http://mockbin.org/bin/229f6d51-f534-466f-b642-e86811631083/
@@ -839,6 +848,7 @@ https://abf26u.com
 https://abrargeospatial.ir/wp-includes/fonts/wp-icons/index.php
 https://acountinteruption.diprimiocostruzioni.it/ppl-it/mark.php
 https://activatecapagm.com/j8r3
+https://activatesoftinc.icu/zinfoz.dat
 https://admiral.clayfenrirhuy.top/login
 https://advanceipscaner.com/additional-check.html
 https://aefpceup.pt/mail/
@@ -1132,6 +1142,9 @@ https://github.com/ghost
 https://github.com/neymafullstack
 https://github.com/swiftcode1121
 https://global-weekends.net/res/helprecord
+https://globalsnn3-new.cc/newSide.forester
+https://go-shorty.killcod3.com/OkkxCrq
+https://go-shorty.killcod3.com/OkkxCrq.
 https://gohazeldale.com
 https://graficateke.com.br/mail/
 https://gravityforms.ir/
@@ -1156,6 +1169,9 @@ https://hs1.iphide.net:751
 https://hs2.iphide.net:751
 https://hs3.iphide.net:751
 https://hs4.iphide.net:751
+https://idliya.com/arquivo_20251130221101.txt
+https://idliya.com/arquivo_20251130221101.txt.
+https://idliya.com/assets/optimized_MSI.png
 https://idmpakistan.pk/
 https://ilkeevingencel.com/app/
 https://illoskanawer.com/live/
@@ -1274,6 +1290,8 @@ https://myanimals.com/
 https://n3xxk.gmlygt.ru/chai!0jwio
 https://naprakeszingatlan.hu/wp-mail/
 https://nasubutrachat.highbourg.my.id/win/index.php
+https://nexsnield.com/install?uuid=550e8400-e29b-41d4-a716-446655440000&version=2025.1116.1842
+https://nexsnield.com/update?uuid=550e8400-e29b-41d4-a716-446655440000&version=2025.1116.1842&previous=2025.1115.1000
 https://none.clay.rest/login
 https://none.clayfenrirhuy.top/login
 https://nookbees.com/mail/
@@ -1452,6 +1470,7 @@ https://tikitok-goolges.sbs
 https://tikpremplaymarktuzb.sbs
 https://tiktoki-goolge.sbs
 https://tiresdoc.com/
+https://tnvs.de/e4gUVc
 https://today-88.com
 https://torvi.pt/Backup/
 https://trailtastic.org/glowworms/diverted/calorie/britons/parabolas
