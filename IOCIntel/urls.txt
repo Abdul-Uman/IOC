@@ -24,6 +24,7 @@ http://176.65.139.119:555/aA/Skype.ps1
 http://178.32.30.3:80/kz10n2f9d5c4pkz10n2f9s2vhkz10n2f9/gcvvPu2KXdqEbDpJQ33/
 http://178.32.30.3:80/kz10n2f9d5c4pkz10n2f9s2vhkz10n2f9/rrvvPu2KXdqEbDpJQ33/
 http://180.178.189.7/mycaptcha.html
+http://181.231.253.69:4444
 http://185.118.164.195/c
 http://185.158.113.114:5000/affiliate/builder.
 http://185.183.97.25/protocol/function.php
