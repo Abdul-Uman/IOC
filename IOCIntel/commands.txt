@@ -87,6 +87,7 @@ mimikatzlogs@anti.pm
 mobile.mailer1@proton.me
 msiexec /qn /i ManualFinder-v2.0.196.msi
 no-reply.doc333@ksmus.virtoshare.com
+oreshnik@mailum.com
 philip@cryptoasis.com
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'brave.exe'  }
 powershell.exe Get-WmiObject Win32_Process | Where-Object { $_.Name -eq 'chrome.exe'  }
