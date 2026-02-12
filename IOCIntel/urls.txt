@@ -354,6 +354,7 @@ http://95.164.53.26/api/YTAsODYsODIsOWQsYTEsODgsOTAsOTUsNjUsN2Qs
 http://95.179.213.0
 http://95.179.213.0/update/AutoUpdater.exe
 http://95.179.213.0/update/AutoUpdater.exe.
+http://95.179.213.0/update/Upgrade.exe
 http://95.179.213.0/update/install.exe
 http://95.179.213.0/update/update.exe
 http://95.179.213.0/update/update.exe.
