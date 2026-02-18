@@ -25,6 +25,8 @@ http://144.172.96.35/api/service/makelog
 http://146.70.41.178:4444/logs
 http://15.235.172.219/vmeo/getlink?id=dcaathur
 http://15.235.172.219/vmeo/link/dcaathur.txt
+http://152.32.173.138/U26d86f1899513347.5b5b0c1b
+http://152.32.173.138/U5213b63dda61af48.0F3Ab3D3
 http://154.58.204.15
 http://156.244.28.153/17ABE7F017ABE7F0
 http://160.25.232.62/bee/BEE02_H.txt
@@ -234,6 +236,7 @@ http://64.226.112.52:8080/fAFUQgw7Py/c401
 http://64.226.112.52:8080/g1Gl1JWEUw/d401
 http://64.226.112.52:8080/rKS64mUmF7/d593
 http://64.226.112.52:8080/vbbdG8dpAw/s401
+http://64.7.199.177:18899/93.187.56.19
 http://66.179.94.117/157/fsf090g90dfg090asdfxcv0sdf09sdf90200002f0sf0df09f0s9f0sdf0sf00ds.vbe
 http://66.179.94.117/157/w/w.doc
 http://67.217.57.240:666/files/netsh
@@ -344,6 +347,7 @@ http://91.92.240.190/fbfde0da45a9450b.php
 http://91.92.242.30/6x8c0trkp4l9uugo
 http://91.92.242.30/7buu24ly8m1tn8m4
 http://91.92.242.30/x5ki60w1ih838sp7
+http://93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun
 http://94.154.35.115/user_profiles_photo/cptchbuild.xn--bin-9o0a
 http://94.159.113.32/service
 http://94.159.113.32:80/service
@@ -610,6 +614,7 @@ http://human-verify-4r.pro/xfiles/verify.mp4
 http://human-verify.shop/xfiles/verify.mp4
 http://hur.bweqlkjr.shop/1a.m4a
 http://hur.bweqlkjr.shop/m41.mp4
+http://hxa-93-187-56-19.nistpyzlfeyzcyrsimcx814h1j59iqxo1.oast.fun/`whoami
 http://icherryls.com/
 http://icherryls.com/exec.exe
 http://icherryls.com/msa.exe
@@ -927,6 +932,7 @@ http://yob.yrwebsdf.shop/1a.m4a
 http://yob.yrwebsdf.shop/3t.mp4
 http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion
 http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/news
+http://zeetcckhtudizieudqyck5o4ez16y973h.oast.fun/93.187.56.19
 http://zenavuurwerkofficial.com/62is
 http://zetag.ru/siro.doc
 http://zetag.ru/tramp.rtf
