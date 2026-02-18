@@ -23,6 +23,7 @@ http://141.98.11.175/fakeurl.htm
 http://144.172.112.50/api/service/makelog
 http://144.172.96.35/api/service/makelog
 http://146.70.41.178:4444/logs
+http://149.248.11.71/rest/apisession
 http://15.235.172.219/vmeo/getlink?id=dcaathur
 http://15.235.172.219/vmeo/link/dcaathur.txt
 http://152.32.173.138/U26d86f1899513347.5b5b0c1b
