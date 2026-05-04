@@ -523,6 +523,8 @@ http://api.npoint.io/f4be0f7713a6fcdaac8b
 http://api.npoint.io/f6dd89c1dd59234873cb
 http://api.office123456.com/vcx/
 http://api.package.coreservice.io:10443
+http://api.reverserecruiting.io/
+http://api.reverserecruiting.io/v1/profile/sync
 http://api.twmoc.info/ws
 http://api.wiresguard.com/api/FileUpload/submit
 http://api.wiresguard.com/update/v1
@@ -566,6 +568,7 @@ http://b38w09ecdejfqsf.xyz
 http://b3d0.com/1/
 http://backbou.biz:5902
 http://bacteria-spent-endless-grammar.trycloudflare.com/okl
+http://banana.summarizer.one/quota
 http://baxe.pics:48261
 http://bd.gotz001.com/lunlian/index.php
 http://belaysolutions.link/pdf/hiring_assistant.pdf.rar
@@ -813,6 +816,7 @@ http://h4k.icu/group.html
 http://hackmoltrepeat.com/molt
 http://hallonews.servemp3.com:5500
 http://hareandhosta.com/95xh
+http://hblnew.ecompk.com/npm/local-rules
 http://hci-outdoors.com/salt-engine.html
 http://headkickscountry.com/lz1y
 http://helper.leuleu.net:2096
@@ -984,6 +988,7 @@ http://narroxp.su/rewd
 http://navelum.biz:3201
 http://nbhg-v.iuksdfb-f.shop/ajax.mp3
 http://netml.shop/get?q=ivanti
+http://newextensioninstallweb.com/2025
 http://newforsomething.rest:8080/ws
 http://news.dostpagasa.com/llehs/jdkasdnkaf.enc
 http://news4me.xyz/coupon/
@@ -1017,6 +1022,13 @@ http://outcrol.biz:4895
 http://outlook.windows-app.store/ws
 http://ownmbaego.com/index.php
 http://ozonelf.su/asd
+http://pack.nppacks.com/mozbra.php
+http://pack.nppacks.com/npm/
+http://pack.nppacks.com/npm/graphql-js-client-transform
+http://pack.nppacks.com/npm/idle-style-xi
+http://pack.nppacks.com/npm/local-rules
+http://pack.nppacks.com/route.js
+http://pack.nppacks.com/token.php
 http://padaz.pics:4219
 http://pagepoinnc.app.n8n.cloud/webhook/downloading-1a92cb4f-cff3-449d-8bdd-ec439b4b3496
 http://parky.pics:3989
@@ -1072,6 +1084,7 @@ http://resources.avtechupdate.com/samlss/vm.ico.
 http://resources.dawnnewsisl.com/updtdll
 http://retrodayaengineering.icu/HGG.hta
 http://reviewerpress.com/advertorial-maxvision-can/?lang=en
+http://rgedist.com/sfxl.php
 http://rlau616jc7a7f7i.xyz
 http://robinhuds.com:9658/
 http://ropea.top:28313
@@ -1329,6 +1342,7 @@ http://www.jsonkeeper.com/b/VBFK7
 http://www.massnetworks.org
 http://www.pgaurdroute.me/
 http://www.shirideitch.com/wp-content/uploads/2022/06/RedAlert.apk
+http://www.talesseries.com/write.php
 http://x0.at/qOfN.msi
 http://x404.008php.com/index.php
 http://x404.008php.com/zz/u.php
@@ -2676,6 +2690,7 @@ https://zamok.claysrat.top/
 https://zdrhnmjjndu.ulbcl.com/7uchSEp6DIEAqux?a3f65e=417ae7f384c49de8c672aec86d5a2860
 https://zdrhnmjjndu.ulbcl.com/tWe0ASmXJbDz3KGh?4a1bbe6d=31d25ddf2697b9e13ee883fff328b22f
 https://zenavuurwerkofficial.com/62is
+https://zero.masscan.cloud:443/v1/telemetry
 https://zkcall.net/download
 https://zmx6f.com/btp/ios/receiRsakeyword.php
 https://zoom-meets.us/invite.php
