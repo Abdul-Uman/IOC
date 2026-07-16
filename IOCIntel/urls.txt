@@ -568,6 +568,7 @@ http://api.cloudapi.stream:8443/Translation
 http://api.glazeceramics.com:443
 http://api.jsonsilo.com/public/0048f102-336f-45dd-aef6-3641158a4c5d
 http://api.jsonsilo.com/public/942acd98-8c8c-47d8-8648-0456b740ef8b
+http://api.keensie.com:5198
 http://api.keensie.com:5198/
 http://api.live-updates.online/v1
 http://api.live-updates.online/v2
@@ -1492,6 +1493,7 @@ http://updates.dailydownloads.net/docs/microsoft/office/Office_Activation_Manual
 http://uslinked.org/infos.php
 http://uswebzoomus.com/zoom
 http://uswebzoomus.com/zoom/
+http://uu.goldeyeuu.io:5188
 http://v2gmupm7o4zihc3.xyz
 http://valdia.quatiappcn.pw/62015040e66111503f639b54.js
 http://valid.boostedengagement.de/LFmtS/
@@ -1548,6 +1550,7 @@ http://wellnesscaremed.com/venezia/d/sd
 http://wellnessmedcare.org/davwwwroot/cz/Downloads/document.LnK?init=
 http://wellnessmedcare.org/davwwwroot/pol/Downloads/document.LnK?init=
 http://windows-msg-as.live/qwV1jxQ
+http://wk.goldeyeuu.io:5188
 http://woodena.biz:7821
 http://worldfashionbd.net/ftx/
 http://www.billplz.com/bills/6e88393d1b82ede9
@@ -2738,6 +2741,7 @@ https://megapari.cam/
 https://megaview.click/pdf_to_scilla
 https://mekhovaya-shuba.ru/crpx0/notify.php
 https://melamorri.com/iEZGPctehTZ
+https://memshowblob.forum/api/index.php?a=grab
 https://message.mailboxarea.cloud/steal/ru.exe-
 https://metamask.awaitingfor.site/update
 https://metodorsame.sinistraperisraele.com/ppl-it/mark.php
