@@ -63186,6 +63186,7 @@ google-referencement.info
 google-securitypage.com
 google-sunn.com
 google-voice-demo.com
+google.chromeupgrades.com
 google.com-accounts.website
 google.com-signin.site
 google.com.ayalon-print.co.il
@@ -108139,6 +108140,7 @@ speedkinareward.com
 speedprotectsafedevice.top
 speedrankingsystem.de
 speedstaged.com
+speedtest.qqmail.website
 speedtestcheck.org
 speeduneasy.com
 speedyload.site
