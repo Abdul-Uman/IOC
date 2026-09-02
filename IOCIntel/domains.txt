@@ -27307,8 +27307,10 @@ api-zoom.com
 api.00isgy77i9fqrn9rmu.com
 api.1f8tlqv4bfa75qaxl7.com
 api.1r2htpstv0jyv4gr3j.com
+api.27inbarbadostours.com
 api.3n7wj.com
 api.42a2hudcuvftqlmit2.com
+api.504guaratv.com
 api.78kwijczjz0mcig0f0.com
 api.7trellca1rt257t2wa.com
 api.85etpt40zf7ht4yd1u.com
@@ -27321,6 +27323,7 @@ api.auto-fixer.online
 api.autocamfixer.online
 api.autodriverfix.online
 api.autofixer.online
+api.b2compages.com
 api.bdustatic.com
 api.bftdtfky0i2gewg6ki.com
 api.bio9438.com
@@ -27373,6 +27376,7 @@ api.dropfile.cloud
 api.dropfile.online
 api.drvfixer.online
 api.e8b7xa22r6pevc1lmu.com
+api.elcaminodesermadre.com
 api.enable-right-click.click
 api.ethzone.io
 api.extensionanalyticspro.top
@@ -27392,10 +27396,12 @@ api.h06bwr0wg9iyy8ygl0.com
 api.healthylifefeed.com
 api.hellknight.xyz
 api.ibario.com
+api.ideasnation.net
 api.im.sb
 api.imoda.site
 api.jaxfire.mobi
 api.jquery-release.com
+api.jyfgarriga.com
 api.jz-aws.info
 api.ka4f064txqusqf1ecb.com
 api.kali365.xyz
@@ -27424,6 +27430,7 @@ api.nvidia-release.us
 api.nvsupport.novatronica.com
 api.office123456.com
 api.olaestudiocreativo.com
+api.onemkscleaningsolutions.com
 api.opfktvbbb0d5pphzlc.com
 api.package.coreservice.io
 api.phpjzo16ok6qvpvcrz.com
@@ -27439,6 +27446,7 @@ api.release-drivers.online
 api.releasedrive.live
 api.retailpackagingpartner.xyz
 api.reverserecruiting.io
+api.rezperfect.com
 api.rmr6qd1zy9hyafyzk2.com
 api.rummymummy.in
 api.russianhackers.online
@@ -27446,6 +27454,8 @@ api.rxpfo7bgftr5gjq99u.com
 api.securehubcloud.com
 api.sey3p6htm1ays1iy54.com
 api.shenmeapp.info
+api.shopfoora.com
+api.shuyinla.com
 api.shw.kr
 api.skycloudcenter.com
 api.slkzkcpz5xf8nplyb6.com
@@ -27626,6 +27636,7 @@ app-lucrativo.site
 app-mercadodaoferta.online
 app-metrics-cdn.com
 app-mews.life
+app-microsoft-edge.com.cn
 app-mktiyu.com
 app-monespaces-securpass-assurances.art
 app-pink-joker-pl.online
@@ -29961,13 +29972,21 @@ auth-ms-service.org
 auth-ms-service.site
 auth-simply.grupositel.com
 auth.allcloudindex.com
+auth.auravp3.com
 auth.byluoyulin.com
+auth.clubvp3.com
 auth.dropfile.online
 auth.enticator-secure.com
+auth.esalesrep.net
+auth.h-dsf1034.com
 auth.hospitalinstallation.com
+auth.nailedbynakole.com
 auth.onedrive365-jp.com
 auth.onlinefieldtech.com
 auth.samecloud.o-r.kr
+auth.secureswallow.com
+auth.shuchimed.com
+auth.speaktowinclients.com
 auth.wwpn.space
 authapi-meta.com
 authcaptcha-meta.com
@@ -31511,6 +31530,7 @@ bahsinewp.online
 bahwjw2603.top
 bahzani.net
 baibaibai.xyz
+baidu-pan.com.cn
 baidu2031.top
 baidu2344.top
 baidu2629.top
@@ -37097,6 +37117,8 @@ browserinfo.name
 browsernotifications.info
 browsertool.com
 browsertools.com
+browserwindow.prototype.center
+browserwindow.prototype.show
 browsify.co
 browsify.net
 brproxy.868id.com
@@ -37820,6 +37842,7 @@ bxdlgwtvlx.site
 bxdpwqg272.vip
 bxedebj.org
 bxenns4570.top
+bxfh.tzcdq.cn
 bxgmiy4156.top
 bxgpklaq.org
 bxhl520kmcv21.top
@@ -38436,6 +38459,7 @@ calenmotors.online
 caleta.ydns.eu
 caliber-spinner-finishing.ngrok-free.dev
 calibere.store
+calibre-ebook.com.cn
 calibrecoaching.online
 calidiscount.online
 califor.claydc.top
@@ -40243,6 +40267,7 @@ cc076831.tw1.ru
 cc1111227.com
 cc379c677349ffe52471472bd1a222d1.com
 cc555kk666.top
+cc8ttkv35b.com
 cc91234ch.com
 cc989kktg.cyou
 cca3cc1da.shop
@@ -40339,6 +40364,7 @@ cdn-tynt.com
 cdn-webstats.com
 cdn.alfayha.ae
 cdn.applight.mobi
+cdn.baraldes.com
 cdn.breachforums.bf
 cdn.caan.edu
 cdn.cloaked.gg
@@ -40346,6 +40372,7 @@ cdn.cloudapi.stream
 cdn.cloudfront-js.com
 cdn.clubinfo.io
 cdn.clublogos.io
+cdn.cobraporganardinero.com
 cdn.conditionfuneral.com
 cdn.data-2919.com
 cdn.data-2920.com
@@ -40353,7 +40380,9 @@ cdn.diogoflix.com
 cdn.documentworkspace.io
 cdn.eideasrl.it
 cdn.erpsaz.com
+cdn.estudiod2.com
 cdn.glitch.global
+cdn.jiyaoglass.com
 cdn.jqueryversion.net
 cdn.js-cdn.xyz
 cdn.jsdclivr.com
@@ -40368,8 +40397,12 @@ cdn.moneycomesagain.click
 cdn.myspservices.com
 cdn.onlinedocview.biz
 cdn.picis.net
+cdn.planningportfolioweek.org
 cdn.saholerp.com
+cdn.shinozen.com
+cdn.snsafirieik.com
 cdn.soccerlab.io
+cdn.speaktogrowbiz.com
 cdn.tqb.app
 cdn.uacounter.com
 cdn.uploadtourl.com
@@ -40378,6 +40411,7 @@ cdn.westford-computing6.net
 cdn.windowserrorapis.com
 cdn.wirbe.com
 cdn.wordonline.cloud
+cdn.yenoox.com
 cdn.zoom.com.kg
 cdn1.online
 cdn1.shacknet.us
@@ -42792,6 +42826,7 @@ cmwwoods1.theworkpc.com
 cmxqmw6001.top
 cmzraa2557.top
 cmzraa4604.top
+cn-drawio.com.cn
 cn-fast-bwin.com
 cn-index-fbsports.com
 cn-membership.site
@@ -48148,6 +48183,7 @@ czfpmq5063.top
 czfueamnlhlqq.space
 czhqxb3194.vip
 czibub.ws
+czijbh.net
 czimocaza.site
 czinfo.club
 czivva3344.top
@@ -55739,6 +55775,7 @@ eugene2410eu.online
 eugmjd9f43439330.top
 eugxnp4070.top
 euhkhg3023.top
+euioxu.net
 eujl.amoriu.click
 eujyln1073.top
 eukaaxxbmvggu.store
@@ -59210,6 +59247,7 @@ forex-trading-23187.bond
 forex-trading-24063.bond
 forex-trading-71096.bond
 forex-trading-78421.bond
+forex2030.com
 forexday4.xyz
 forextradingtime.info
 forexverein.de
@@ -61992,6 +62030,7 @@ gefiz4003j.online
 gegeso888.com
 geheim.no-ip.biz
 geheimes-ebook-abnehmen.site
+gehie246.com
 gehlich.de
 gehren-consulting.de
 gehwtu.net
@@ -65100,6 +65139,7 @@ gvxsye5066.top
 gvxykl3309.top
 gvzouq8035.vip
 gw-flashproxy-eu.netnut.net
+gw-sogou.com.cn
 gw-web.top
 gw-xunjie-ca.netnut.net
 gw.netnut.net
@@ -71712,6 +71752,7 @@ itzlazzzy.site
 itzonectg.com
 iu2r4zh6a2v-a7c3.top
 iu789rhj7jq.xyz
+iualef.net
 iucxcc41440956e7.top
 iuh3f8437.click
 iuhfsocial.online
@@ -74760,6 +74801,7 @@ kaskustoto887.online
 kaskuswin33.online
 kasmc.top
 kasparimobiliaria.online
+kaspersky-lab.hl.cn
 kasrioil.com
 kasteelengelenburg.world
 kasus777win.online
@@ -82713,6 +82755,7 @@ meatogenic.online
 mebeliotmasiv.com
 mebelovestg.click
 mebwelding.online
+mebx78e02.com
 mec-quizespecial.site
 mecadynaqmic.com
 mecanicaspike.com.br
@@ -84246,6 +84289,7 @@ mindfulwave.space
 mindhealthtransformation.online
 mindhex.cfd
 mindmate.su
+mindmoster.com.cn
 mindonhealth.online
 mindprorecursos.site
 mindsetgrowth.shop
@@ -86783,6 +86827,7 @@ n6rnujf9jmp22ydqprzjbbkn7govu.ad
 n72nn282ty.shop
 n78betvip.xyz
 n7ac7qaram.top
+n7b8t85zsg.com
 n7kibwf1m82.xyz
 n7vascmn85s7mkctjbd4bw1gunw2n.il
 n7yjtbyscybwqjoit8lh8mi9lxz6e.mo
@@ -90159,6 +90204,7 @@ oc2cgp5q25.top
 oc2czj8184.top
 oc87q32o54.top
 ocaaje5147.top
+ocam-pc.com.cn
 ocbdva4098.top
 ocbgoe2032.top
 occasiondavidokalafundoutnow.guru
@@ -90610,6 +90656,7 @@ oigdpi5093.top
 oigmt0hmlul0zwygcpawulxwf51f8.ua
 oigx4xs1s8lu.top
 oiikxkaboew.vg
+oijfwe.net
 oijojiwejfio.online
 oil4yorkshire.co.uk
 oila.online
@@ -93538,6 +93585,7 @@ pbxphonenetwork.com
 pbxsources.com
 pbyizz4173.top
 pbytlg.info
+pc-razerzone.com.cn
 pc-whatsapp.net
 pc1-whatsapp.com
 pc2g5ebc4p.top
@@ -96188,6 +96236,7 @@ powwowski.com
 pox40party.site
 pozao.clearconceptsdesign.de
 pozctoweusiugl00177392.cfd
+pozdravizbeograda.com
 pozeny.shop
 pozirk.online
 poznsp3101.top
@@ -99937,6 +99986,7 @@ qwhlu1wm9nd6k6c.online
 qwhv2ta7ws.top
 qwjhtt4131.vip
 qwjljbjcze.top
+qwjre1487.com
 qwlehc6059.vip
 qwlzks3205.top
 qwm619r.shop
@@ -105416,6 +105466,7 @@ sej.progmedisd.site
 sejadasservico.site
 sejati8989.store
 sejaumliderdesucesso.fun
+sejda.hl.cn
 sejonghaeun.com
 sejvdhb66.top
 sekabet1446.site
@@ -109901,16 +109952,25 @@ stathub.quest
 static-addtoany.com
 static-alicdn.com
 static-file.digital
+static.ariesglobalsoft.com
 static.bytedauce.com
 static.cdncounter.net
+static.cistecca360.com
 static.click
 static.diogoflix.com
+static.emialvarez.com
+static.gompl-rggsrve.com
 static.img-cache.com
 static.img-caches.com
 static.it-sharepoint.com
 static.login-certificate.org
+static.metodorace.com
 static.needbinding.icu
+static.premios-king.com
+static.suplenation.com
 static.tagscdn.com
+static.trythecrowdmakers.com
+static.turboleadslab.com
 static.updatestar.net
 static6-jquery.com
 staticcloudflare.pro
@@ -109985,6 +110045,7 @@ steelcitydaily.com
 steelconstructionaustralia.online
 steelconstructionexpo.com
 steelmagnoliastructures.online
+steelseries-cn.com.cn
 steelslice.store
 steengoedmetselwerken.nl
 steep9.site.transip.me
@@ -112276,6 +112337,7 @@ tb2244.com
 tb6rwjgr.top
 tb88kolam.top
 tbay.store
+tbdqxq.net
 tbdxbpq234.vip
 tbeg738gnm12339fg.top
 tbfs.xyz
@@ -115094,6 +115156,7 @@ tms.online
 tmsbju5015.top
 tmsinternational.site
 tmsnc.net
+tmsq.tzcdq.cn
 tmt-moden.de
 tmtinsights.com
 tmvcagppsu.cn
@@ -116135,6 +116198,7 @@ transitleg.online
 transitopalermo.com
 transitx.in
 translarco.com
+translate-youdao.hl.cn
 translationsmango.site
 translatorgator.org
 translog-spedition.de
@@ -118858,6 +118922,7 @@ us01web-zoom.us
 us03-slack.online
 us04office.us
 us04we.us
+us05.org
 us05webzoomus.life
 us05webzoomus.top
 us05webzoomus.world
@@ -124164,6 +124229,7 @@ wflm22228383.top
 wflm2222wflm.top
 wflm55552626.top
 wfmpoq5598.top
+wfmwsj.net
 wfnxznp1710.vip
 wfpscripts.homeunix.com
 wfqgte3194.top
@@ -126717,6 +126783,7 @@ www.garant.bg
 www.gda.wiki
 www.geely-tunisie.com
 www.geer.com.sa
+www.gehie246.com
 www.genderismyagenda.org
 www.genuineproductions.com
 www.georgmat.com
@@ -127623,6 +127690,7 @@ www.yetundemedia.ug
 www.yfvb.com
 www.yiwuen.com
 www.yogaonthewallkill.com
+www.yonelco.com
 www.youmeanthis.com
 www.younghentai.net
 www.youthful-herschel.208-85-19-80.plesk.page
@@ -132045,6 +132113,7 @@ yildizkocluk.com
 yillustration.online
 yilzv.org
 yimsiam8899.com
+yimxg25tiy.com
 yinchemails.store
 yinfun.shop
 yingba050.top
@@ -133936,6 +134005,7 @@ zh-cno-c7entertainment.com
 zh-cno-lanjingsport.com
 zh-cno-ng28gaming.com
 zh-cp-skysports.com
+zh-diskgenius.com.cn
 zh-download-dblotto.com
 zh-download-ng28.com
 zh-entry-kaiyun.com
