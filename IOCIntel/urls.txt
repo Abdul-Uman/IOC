@@ -1057,6 +1057,7 @@ http://h.com:8000/test1.html
 http://h4k.icu
 http://h4k.icu/group.html
 http://hackmoltrepeat.com/molt
+http://hagaseca.pleasedonthackmyserver.com/hagaseca/gta
 http://hallonews.servemp3.com:5500
 http://hareandhosta.com/95xh
 http://hblnew.ecompk.com/npm/local-rules
@@ -1690,6 +1691,7 @@ http://unicredit-tme.shop/
 http://union.macoms.la/jquery.min-3.6.8.js
 http://union.macoms.la/jquery.min-4.0.2.js
 http://update-teams.live/teams
+http://update.dubbedmuch.cc/
 http://update.ecols.ru/jquery-3.3.1.slim.min.xn--js-02t
 http://updatemind52.com/Love_Chat.apk
 http://updatemind52.com/Love_Chat.apk.
@@ -2181,6 +2183,7 @@ https://api.flashstore.sbs/test
 https://api.flashstore.sbs/uploadfiles
 https://api.githubcopilot.com
 https://api.hellknight.xyz/js
+https://api.ipapi.is
 https://api.jz-aws.info/public/images/
 https://api.keyval.org
 https://api.live-updates.online/v1
@@ -2825,6 +2828,8 @@ https://gelalentejo.com/mail/
 https://gelya.claybaster.top/login
 https://gelya.clayfenrirhuy.top/login
 https://geminicli.com/
+https://geo.estimator-undermostshelving.in.net/dc06681a3f4e
+https://geo.estimator-undermostshelving.in.net/jquery.min.js
 https://get.usermanualsonline.com/viewmanual.exe
 https://getallmanuals.com/GetAllManuals.exe
 https://getmanualviewer.com/getmanualviewer.exe
@@ -3035,6 +3040,7 @@ https://kleinschnitg.com/F3bebOag/?id=email
 https://kollabmi.se/
 https://kololjrdtgted.click/zip.php
 https://koonenmagaziner.click/counter/&lt;IP_address
+https://kr.cedar2glanz.ru/jewel.js
 https://ksdkgsdkgkgmgm.pro/ofofo.js
 https://ksfldfklskdmbxcvb.com/-
 https://ksfldfklskdmbxcvb.com/admin/
@@ -3324,6 +3330,7 @@ https://phillips66lubricants.ru/
 https://phones-pichunter-businesses-drop.trycloudflare.com/12341234
 https://phpthemes.net/images/upload/
 https://phpthemes.net/images/upload/eu.png/
+https://phys.stunned-amniotic.com/hub.log
 https://pick.storewebzone.net/assets/static/img/I4o8Pp_41.png
 https://pick.storewebzone.net/prod/vUcLWuZF/8363/asb2dz_1dd4.php
 https://pierregems.com/wp-content/themes/woodmart/inc/configs/js-hand.php
@@ -3640,6 +3647,7 @@ https://telemetry.api-monitor.com/v1/telemetry
 https://telemetry.api-monitor.com/v1/telemetry'
 https://telephony.nexttradeitaly.com/SSSuWBTmYwu/
 https://test.clayrat.top/login
+https://test.hagaseca.com/ws
 https://testnet.archival.chain.grpc-web.injective.network
 https://tg-media.guardedcloud.net/?access_hash=ceFFc8F817&cuid=nghdRm&code=A824c7d9D3&tuid=SuCmHG
 https://tg4service.com:443
