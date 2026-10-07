@@ -23133,6 +23133,7 @@ account-sams-club.com
 account-security-googie.my-board.org
 account-security-googie.rf.gd
 account-settings-shsvchx.wuaze.com
+account-sync-data.com
 account-verification323910.fun
 account-verification581029.online
 account.celine-dion-arena.com
@@ -23573,6 +23574,8 @@ addtechservices.online
 addyourpasskey.com
 ade.dropfile.online
 adebamowo.com
+adeccohr-calendly.com
+adeccohr-jobs.com
 adeconsultingllc.xyz
 adelaide365.xyz
 adelaide888.xyz
@@ -23810,9 +23813,12 @@ adroz.in
 ads-adv.top
 ads-analitics-cdn.digital
 ads-analytic.com
+ads-claude-beta.com
+ads-claude.com
 ads-house.com
 ads-parkpro.com
 ads-sweet777.site
+ads-team-openai.com
 ads-tm-glb.click
 ads.0x60e4d786628fea6478f785a6d7e704777c86a7c6.info
 ads.green-pickle-jo.shop
@@ -23841,6 +23847,7 @@ adsl-yemen.xyz
 adsmarks.com
 adsmaster.online
 adsmedia.space
+adsmistral.com
 adsmktsmarts.site
 adsmobi.ru
 adsmorein.in
@@ -23949,9 +23956,11 @@ adventurevalley.world
 adverbial15ysphrase.xyz
 advertapp.me
 advertisement.in
+advertising-chatgpt.com
 advertising-courses-de-291239.shop
 advertising-courses-nz-406974.shop
 advertising-examples-41783.bond
+advertising-gemini.com
 advertising-platform-139.shop
 advertising-platform-173.cfd
 advertising-platform-202.cfd
@@ -24541,10 +24550,12 @@ ahwujy5622.top
 ahygeg4067.top
 ahyjsrlslitla.online
 ahysum3029.top
+ai-ads-platform.com
 ai-ai-ai-ai.online
 ai-assistedsingle.online
 ai-automation-2.site
 ai-ba5voec.top
+ai-brand-safety.com
 ai-chat-to-pdf.com
 ai-consult.site
 ai-course-online.online
@@ -27107,6 +27118,11 @@ anthonyopythealthsolutions.site
 anthonyweinervolleyball.online
 anthonyzanderpropertystyling.online
 anthrologic.site
+anthropic-ads-beta.com
+anthropic-ads-marketing.com
+anthropic-ads.com
+anthropic-beta-ads.com
+anthropic-sponsored.com
 anthropologyoffice.com
 anti-blue-glasses.online
 anti-snoring-solutions.online
@@ -28029,6 +28045,7 @@ apple-authenticator.com
 apple-bill.com
 apple-camps.com
 apple-care-in.com
+apple-career.com
 apple-certified.icu
 apple-cha-xun.com
 apple-co6.shop
@@ -33631,8 +33648,13 @@ bet365app1.com
 bet61-88.com
 bet777win.online
 bet88pg18.icu
+beta-anthropic.com
 beta-apps-hub.xyz
 beta-ariel.site
+beta-chatgpt.com
+beta-gemini-ads.com
+beta-manus.com
+beta-perplexity.com
 beta-pggames.com
 beta.ce953a0eb08246617b7f849486c4b26a7af37e9d2e8f0e13b3ae1bf0da8a70a.xyz
 beta.padmin.com
@@ -37822,6 +37844,7 @@ business-data-leaks.com
 business-english-magazin.de
 business-fabrics.site
 business-finance-approval-support.site
+business-gemini.com
 business-help-policy.click
 business-insurance-882.online
 business-integration.online
@@ -39927,6 +39950,7 @@ careerpredictto.space
 careerpulsynk.xyz
 careerquestion.com
 careers-hub.org
+careers-interview.com
 careers-portal.org
 careers.com
 careers.dynamicssolution.com
@@ -41429,6 +41453,12 @@ chatconsultoria.online
 chateauphotography.online
 chatgbt.online
 chatgbt.tapnetic.pro
+chatgpt-advertise.com
+chatgpt-advertisement.com
+chatgpt-beta.com
+chatgpt-brief.com
+chatgpt-briefing.com
+chatgpt-monday-brief.com
 chatgpt.niestools.com
 chatgpt.tapnetic.pro
 chatgptbonus.live
@@ -42491,6 +42521,15 @@ classycutsdoggygroomingllc.online
 classymachine.store
 classywonders.store
 claud-code.pages.dev
+claude-ads-beta.com
+claude-ads-invitations.com
+claude-ads-portal.com
+claude-ads.ai
+claude-advertisement.com
+claude-advertisers.ai
+claude-advertisers.com
+claude-beta-invite.com
+claude-beta.com
 claude-code-docs-dvlr2jpuuw.edgeone.app
 claude-code-docs-site.pages.dev
 claude-code-install.squarespace.com
@@ -44322,6 +44361,7 @@ confirm-in.com
 confirm-info28040.world
 confirm-it-guest2341.world
 confirm-meta.com
+confirm-payments.com
 confirm-protocol.com
 confirm-recaptcha.com
 confirm-recaptcha.live
@@ -48269,6 +48309,7 @@ cursoaptis.online
 cursodeingles.online
 cursomanicureemminutos.site
 cursoonlaine.online
+cursor-ads.com
 cursor-changer.online
 cursor.click
 cursorvpn.com
@@ -56009,6 +56050,7 @@ escritorio-onbelli.site
 escritorioautorizadotp.online
 escritoriobprz.site
 escritoriosolucoesmobi.site
+escrow-ads.com
 escrow.breachforums.bf
 escrowbot.ga
 escty.com
@@ -58103,6 +58145,8 @@ fernleaconsulting.online
 ferntier.com
 fernviewenviornmental.online
 ferrandinoenterprises.com
+ferrar.careers-interview.com
+ferrari-invite.com
 ferrazcont.site
 ferreiradesouza.site
 ferromny.digital
@@ -62742,7 +62786,19 @@ gemastrology.com
 gembalasakti.site
 gembiratoto.xyz
 gemeosbrassil.site
+gemimi-ads.com
+gemini-ads-ai.com
+gemini-ads-invite.com
+gemini-ads-team.com
+gemini-ads.ai
+gemini-advertisers.com
 gemini-apibalancetest.online
+gemini-beta-invitations.com
+gemini-beta-invites.com
+gemini-business.com
+gemini-google-ads.com
+gemini-invitation.com
+gemini-invitations.com
 gemini-setup.com
 gemini.crypto-assessment.com
 gemini.google.tapnetic.pro
@@ -62858,6 +62914,7 @@ genkinfy.es
 genkinfy.info
 genkinfy.us
 genkingroup.info
+gennini-ads.com
 genome777.xyz
 genomicsforge.com
 genres777.xyz
@@ -64324,6 +64381,7 @@ googlcxvorv.icu
 google-account-login.com
 google-account.work
 google-admin.top
+google-ads-sync.com
 google-ads.biz
 google-ads.click
 google-analytic.icu
@@ -72048,6 +72106,7 @@ invisiblethunder.click
 invitacion.site
 invitaciones-digitales.online
 invitaciontomas.xyz
+invitation-anthropic.com
 invitationlink.space
 invite.urmenu.ir
 invitefruition.com
@@ -78699,6 +78758,8 @@ leak-repair-usa34796.site
 leak-repair-usa58102.site
 leak-repair-usa90215.site
 leakdry.store
+leaks-entry.com
+leaksentry-security.com
 leakvideotv.online
 leakxlinks.site
 lean-management.site
@@ -79465,6 +79526,7 @@ link-dwvgaming.online
 link-english.xyz
 link-flux.com
 link-matrix.site
+link-mcc.com
 link-offline.info
 link-pro788.site
 link.mejsc4.com
@@ -82779,6 +82841,9 @@ manualscorealto.site
 manuelschmid.ch
 manufactured-home-equity-loans.click
 manulifie.click
+manus-meta.im
+manusbymeta.com
+manusmeta.im
 manut88jp.online
 manuver88.site
 manwithedhelp.top
@@ -83524,6 +83589,11 @@ mcaluminios.pt
 mcb-seattle.edu
 mcboost.shop
 mcbuah2007.top
+mcc-account-sync.com
+mcc-invitation.com
+mcc-safety.com
+mcc-security.com
+mcc-verification.com
 mccanndublin.com
 mccarthyfamilylaw.online
 mccbz.ws
@@ -84496,6 +84566,7 @@ metalswork8.online
 metalurgicaaustral.online
 metalworks.website
 metamailhub.site
+metamanus.im
 metamask-web3.xyz
 metamask.awaitingfor.site
 metamaskhelpcenter.digital
@@ -86006,6 +86077,7 @@ monblare.com
 monboutiquehotel.icu
 monclerjackets.top
 monclusweb.online
+monday-brief-claude.com
 mondaytexas3.xyz
 mondergo-id2463.world
 mondial-relay-global.com
@@ -86969,6 +87041,7 @@ musclebrother.shop
 musclegurus.to
 musclemania.online
 musclevibeskele.online
+museads.ai
 musebrand.store
 museoraglobal.online
 museview.buzz
@@ -89454,6 +89527,7 @@ nijmuksc.vg
 nik.pointto.us
 nikahin.id
 nikeflexjox.site
+nikehr-jobs.com
 nikkimitchell.online
 nikkio.net
 nikkiryder.online
@@ -92503,8 +92577,11 @@ open.onlinecloud.cloud
 open4.com
 openaccessclearing.site
 openaccessharbour.site
+openai-ads.ai
+openai-advertisers.com
 openai-browser.com
 openai-pidor-with-ai.com
+openaiadsteam.com
 openapicloud.com
 openblocklabs.xyz
 openblueprint.online
@@ -94543,10 +94620,14 @@ payloadrpc.com
 payloads.tralalarkefe.com
 paym.online
 paymemail.site
+payment-confirm.com
+payment-confirmation.com
+payment-confirmations.com
 payment-id0098722.com
 payment-id34234.com
 payment-mobile.shop
 payment-stage.site
+payment-sync.com
 payment-vignetten.icu
 payment666.site
 paymentblockchain.top
@@ -94554,6 +94635,7 @@ paymentcenter.online
 paymentprola.info
 paymentprola.online
 paymentprola.store
+payments-sync.com
 paymentslearning.online
 paymentweb-ch.com
 paymontgomeryal.online
@@ -95137,7 +95219,10 @@ pernicious.site
 peroif1080.top
 perousedental.online
 perpetual420.online
+perplexity-advertising.com
 perplexity-ai.online
+perplexity-beta-ads.com
+perplexity-beta.com
 perplexityredeem.online
 perpustakaan-pelita.sdnpercobaan2yogyakarta.com
 perpustakaan.bkkbnkaltim.id
@@ -102404,6 +102489,7 @@ redbluffchamber.com
 redbrickcoffee.shop
 redbridgechamber.com
 redbull69.online
+redbullapply.careers-appointment.com
 redcanaistv.bar
 redcartpress.shop
 redciitupioacls.com
@@ -102607,6 +102693,7 @@ refrigeracaonoroeste.site
 refrigerator-cheers-indicator-ferrari.trycloudflare.com
 refs.search
 refugioalmado.site
+refund-advertisers.com
 refund-booking-goninurbansuite.com
 refundes.net
 refundonex.com
@@ -105413,6 +105500,7 @@ safesky.click
 safeskydemos.space
 safesurgerepair.online
 safety-equipments.com
+safety-mcc.com
 safety-work.site
 safetyhub.site
 safetymedia.online
@@ -106589,6 +106677,7 @@ security-2u6g-log.com
 security-7f2c-run.com
 security-9y5v-scan.com
 security-a2k8-go.com
+security-ads.com
 security-camera-installation-2440.online
 security-camera-installation-4386.shop
 security-check-l2j4.com
@@ -106607,6 +106696,7 @@ security-jobs-50138.bond
 security-jobs-62503.bond
 security-jobs-91058.bond
 security-mail.fwh.is
+security-mcc.com
 security-service-882.online
 security-service-882.site
 security-systems-5344.online
@@ -106786,6 +106876,8 @@ seminarionacionalcr.com
 semja.co.uk
 semotalk.com
 semperfimovers.com
+semrush-ai.com
+semrushads-ai.com
 semstore.co.uk
 semyanich23.online
 senaingenieria.com.py
@@ -110575,6 +110667,7 @@ spoilz.online
 spokaneinverse.cfd
 spoldzielnia.online
 sponqboaqr.cn
+sponsored-gemini.com
 spoofmail.online
 spoogo-korss.com
 spoolsv.cc
@@ -113026,6 +113119,18 @@ synapsephysio.online
 synapseprotocol-migrate.xyz
 synapsey.site
 synapticore.online
+sync-account-invite.com
+sync-account.com
+sync-ads-account.com
+sync-ads.com
+sync-billing.com
+sync-business.com
+sync-mcc-account.com
+sync-mcc-data.com
+sync-mcc-team.com
+sync-payment.com
+sync-payments.com
+sync-tiktok.com
 sync-time-win.live
 sync.zurikoff.ru
 syncdatavault.com
@@ -113409,6 +113514,7 @@ taleju-boutique.com
 talent-hiring-step.com
 talent-hiringstep.com
 talent-hiringtalk.com
+talent-louisvuitton.com
 talent.willo-interview.us
 talentassesspro.com
 talentcatchingtool360.com
@@ -114439,6 +114545,7 @@ tescphonecare.online
 tesdulubang.online
 tesgaom.vg
 tesggyissaesfr.ph
+tesla-careerapplication.com
 tesla-spacex.online
 teslacontrols.ir
 teslainternational.online
@@ -122129,6 +122236,7 @@ verification-id43124.com
 verification-id9319412.com
 verification-life-h0me.com
 verification-life-h0me.rest
+verification-security.com
 verification.anydeesk.ink
 verification.google
 verification12415-booking.com
