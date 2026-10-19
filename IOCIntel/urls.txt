@@ -10,6 +10,7 @@ http://103.86.86.244:800/Gateway/deploy_silent1.Ps1
 http://103.86.86.244:800/Gateway/r.Zip
 http://103.86.86.244:800/V/deploy.Ps1
 http://104.238.149.198:12349/BVN0VEdddye5odDFVR
+http://104.248.17.222:80/linux-update-repos.elf
 http://107.172.135.60/96/ibredgoodforbestthingscomingbackform.hta
 http://107.172.235.213/87/img_015059.png
 http://107.175.82.242:9000/wilow/psychedeliclove.exe
@@ -61,6 +62,7 @@ http://15.235.172.219/vmeo/getlink?id=dcaathur
 http://15.235.172.219/vmeo/link/dcaathur.txt
 http://152.32.173.138/U26d86f1899513347.5b5b0c1b
 http://152.32.173.138/U5213b63dda61af48.0F3Ab3D3
+http://154.205.145.179:8000/ligolo-mp_linux_amd64
 http://154.58.204.15
 http://154.82.81.205/YD20251001143052.zip
 http://154.82.81.205/YD20251001143052.zip'
@@ -170,6 +172,7 @@ http://202.144.192.29/download2/Themes2.zip
 http://206.82.6.22/
 http://207.148.79.178:6608/sys.sh
 http://207.189.11.170/Bin/working_payload.cs
+http://209.141.43.95/files/kw2-freebsd-x64-s11;chmod$
 http://209.99.186.235:8443/api/agent/full?arch=amd64
 http://212.192.241.62/base/api/statistics.php
 http://212.193.30.45/proxies.txt
@@ -375,6 +378,12 @@ http://59.7.217.245:7070/app2
 http://59.7.217.245:7070/c.sh
 http://60.30.147.18:8091/CDGServer3/CDGClientDiagnostics?flag=syn_user_policy
 http://62.113.115.89/homepage/infile.php
+http://62.113.66.137/WindowsUpdateService.ps1
+http://62.113.66.137/WindowsUpdateService.vbs
+http://62.113.66.137/comhost.exe
+http://62.113.66.137/libcrypto-3.dll
+http://62.113.66.137/libssl-3.dll
+http://62.113.66.137/ssdpdrv.exe
 http://64.226.112.52:8080
 http://64.226.112.52:8080/09KvYAUSHm/z593
 http://64.226.112.52:8080/0rX20C97S6/c402
@@ -1816,6 +1825,8 @@ http://update.ecols.ru/jquery-3.3.1.slim.min.xn--js-02t
 http://updatemind52.com/Love_Chat.apk
 http://updatemind52.com/Love_Chat.apk.
 http://updatemind52.com/asdf.6786708906
+http://updates-check-microsoft.ddns.net/1.pdf
+http://updates-check-microsoft.ddns.net/MicrosoftOfficeUpdate.zip
 http://updates.dailydownloads.net/docs/microsoft/office/Office_Activation_Manual_DB2F.pdf
 http://urutyka.com/xxx/viewer32
 http://usersecuritycheck.com/12.mp4
@@ -3280,6 +3291,7 @@ https://ksdkgsdkgkgmgm.pro/ofofo.js
 https://ksfldfklskdmbxcvb.com/-
 https://ksfldfklskdmbxcvb.com/admin/
 https://ksfldfklskdmbxcvb.com/gigi?ts=1765169670
+https://ktxapp.com
 https://kuchiku.digital/
 https://kuchiku.digital/d
 https://kuchiku.digital/locations
